@@ -26,3 +26,7 @@ From the analysis of this dataset, we would like to understand what factors infl
 Obtained an accuracy of 84% with this model which predicted whether the customer would leave or stay at the bank. The best model takes into consideration the predictor variables: Geography, Gender, Age, Tenure, IsActive Member, Age\*IsActiveMember to give us the best equation for our model. 
 
 This dataset is rather small for prediction of the regression variable ‘Exited’ with high affirmation. Adding more data points to the model will definitely improve the accuracy and prediction strength of the equation. We also found many pivotal insights from the data discussed above but the addition of historical data would definitely help. Adding more independent variables would help us improve the R squared score and in return get a better equation for our prediction model. Based on the confusion matrix and the summary measures we can increase some measures like recall or precision according to the implementation of the model in different business situations. 
+
+Analysis on my [Medium]!
+
+[Medium]:https://sheetalkalburgi.medium.com/
